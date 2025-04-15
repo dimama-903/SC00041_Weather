@@ -1,17 +1,15 @@
 # Weather Data Visualization
 
 ## Purpose
-Write what the script does
+(Students must describe what the script does)
 
 ## Instructions for Running Code
 
-### 1. Project Structure
+### Install dependencies
+(Students must create an `environment` and list dependencies)
 
+### Run the script
+(Students must specify correct paths)
 
-### 2. Install Dependencies
-This script uses the following R packages:
-
-### 3. Run the Script
-
-### 4. What Output to Expect
-
+## What output to expect
+(Students must describe what output to expect by running this code)
