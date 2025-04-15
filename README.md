@@ -1,7 +1,7 @@
 # Weather Data Visualization
 
 ## Purpose
-<!-- Write what the script does
+Write what the script does
 
 ## Instructions for Running Code
 
