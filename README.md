@@ -13,7 +13,7 @@ The purpose of the script is to visualize weather data across multiple years usi
 
 
 ### Run the script
-- create a project_specific environment so that all packages used are tracked for the project. 
+- create a project-specific environment so that all packages used are tracked for the project. 
 - Initialize the environment from the root of the project folder. Run this command in R: renv::init()
 - Install required packages
 - Snapshot the environment to save the versions of dependencies used to renv.lock. Run this command: renv::snapshot() 
