@@ -1,7 +1,7 @@
 # Install required packages if not already installed
-install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("readr")
+#install.packages("ggplot2")
+#install.packages("dplyr")
+#install.packages("readr")
 
 library(ggplot2)
 library(dplyr)
@@ -27,4 +27,4 @@ ggplot(weather, aes(x = Month)) +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 # Save the plot as a PNG file in the output folder
-ggsave("output/weather_plot.png", width = 10, height = 6, dpi = 300)
+ggsave("output/weather_plot.png", width = 10, height = 6, dpi = 300, , create.dir = TRUE)
