@@ -17,6 +17,7 @@ The purpose of the script is to visualize weather data across multiple years usi
 - create a project-specific environment so that all packages used are tracked for the project. 
 - Initialize the environment from the root of the project folder. Run this command in R: renv::init()
 - Install required packages
+- Update file paths to for the data folder and the folder where you wish the output to be saved.  
 - Snapshot the environment to save the versions of dependencies used to renv.lock. Run this command: renv::snapshot() 
 
 ### option 1: Using Conda Environment (Recommended)
