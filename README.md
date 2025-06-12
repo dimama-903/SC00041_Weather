@@ -31,5 +31,12 @@ This is the easiest way to run the code with all required dependencies installed
 2. Manually install required packages in R
 3. Run the script
 
+### Example code to run the script  
+``````````````
+
+R plot_weather.R
+
+``````````````
+
 ## What output to expect
 Multi-panel plots, one for each year. Each panel of each plot shows 12 months on the x-axis. For each month, a bar representing montly percipitation (right y-axis) and line with points representing average montly temperature (left y-axis) will be shown.
