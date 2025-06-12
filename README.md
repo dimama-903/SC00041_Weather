@@ -30,7 +30,7 @@ This is the easiest way to run the code with all required dependencies installed
 ```
 conda env create -f weather.yml
 
-conda activate weather.yml
+conda activate weather_env.yml
 ```
 
 ### option 2: Using local R installation without Conda
