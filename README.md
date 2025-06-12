@@ -27,6 +27,12 @@ This is the easiest way to run the code with all required dependencies installed
 3. Create the conda environment from the included "weather.yml" file. Activate the environment and run the Rscript.
 4. it is a good practice to export the conda environment to ensure reproducibility
 
+```
+conda env create -f weather.yml
+
+conda activate weather.yml
+```
+
 ### option 2: Using local R installation without Conda
 1. Make sure R is installed
 2. Manually install required packages in R
