@@ -6,10 +6,10 @@ The purpose of the script is to visualize weather data across multiple years usi
 # Instructions for Running Code
 
 ## Packages (dependencies) required:
-- renv (to set up an environment)
-- ggplot2
-- dplyr 
-- readr
+- `renv` (to set up an environment)
+- `ggplot2`
+- `dplyr`
+- `readr`
 
 ## Running the script
 
@@ -34,9 +34,7 @@ This is the easiest way to run the code with all required dependencies installed
 
 ### Example code to run the script  
 ``````````````
-
 R plot_weather.R
-
 ``````````````
 
 ## What output to expect
