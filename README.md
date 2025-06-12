@@ -40,9 +40,9 @@ conda activate weather_env.yml
 3. Run the script
 
 ### Example code to run the script  
-``````````````
+```
 R plot_weather.R
-``````````````
+```
 
 ## What output to expect
 Multi-panel plots, one for each year. Each panel of each plot shows 12 months on the x-axis. For each month, a bar representing montly percipitation (right y-axis) and line with points representing average montly temperature (left y-axis) will be shown.
